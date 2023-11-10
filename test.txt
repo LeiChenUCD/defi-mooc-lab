@@ -1,0 +1,1 @@
+ALCHE_API="https://eth-mainnet.g.alchemy.com/v2/pLrulnGm7QowvO7El8Do7S1IHlAEXtpO" npm test
